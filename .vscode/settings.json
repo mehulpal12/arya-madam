@@ -1,4 +1,4 @@
 {
     "claudeCodeChat.permissions.yoloMode": false,
-    "prisma.pinToPrisma6": true
+    "prisma.pinToPrisma6": false
 }
